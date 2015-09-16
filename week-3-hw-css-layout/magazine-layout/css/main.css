@@ -45,6 +45,29 @@ nav > p {
   margin-top: 75px;
 }
 
+.center {
+  clear: right;
+  margin-bottom: 15px;
+  margin-right: 2px;
+  height: 150px;
+  background-color: gray;
+  width: 150px;
+  float: right;
+
+
+}
+
+.right {
+
+  margin-bottom: 15px;
+  margin-right: 2px;
+  height: 150px;
+  background-color: gray;
+  width: 500px;
+  float: right;
+
+}
+
 .bottom {
   clear: right;
   margin-bottom: 15px;
