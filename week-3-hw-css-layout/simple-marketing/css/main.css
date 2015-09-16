@@ -1,0 +1,49 @@
+body {
+  margin-right: 30px;
+
+}
+
+h1 {
+  margin-top: 30px;
+
+}
+
+div {
+  height: 125px;
+  background-color: gray;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+
+}
+
+.top {
+  background-color: gray;
+  width: 48%;
+  height: 375px;
+  margin-left: 10px;
+  float:left;
+  margin-bottom: 15px;
+  margin-right: 10px;
+
+}
+
+.bottom {
+  clear: right;
+  margin-bottom: 15px;
+  margin-right: 2px;
+  height: 150px;
+  background-color: gray;
+  width: 33%;
+  float: left;
+}
+
+footer {
+  clear: both;
+  height: 125px;
+  background-color: gray;
+  margin-bottom: 15px;
+  border: 1px solid black;
+
+
+}
