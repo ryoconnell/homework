@@ -22,5 +22,10 @@ $(".readless").click(function(event){
 
 });
 
+$(".learnmore").click(function(event) {
+  event.preventDefault();
+  $("#readmoretext").slideDown().hide();
+
+});
 
 });
